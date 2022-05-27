@@ -1,0 +1,43 @@
+nav.navbar {
+    border-radius: 0;
+    border: 0;
+    background-color: #8a6d3b;
+}
+
+.navbar-nav.visible-xs > li:first-child {
+    border-top: 1px solid white;
+}
+
+.navbar-nav.visible-xs > li > a {
+    color: white;
+    border-bottom: 1px solid white;
+    background-color: #985f0d;
+}
+
+.navbar-brand.cl-white {
+    color: #fff;
+}
+
+.heading {
+    margin-bottom: 40px;
+}
+
+.bcl-gray {
+    background-color: gray;
+}
+
+section.col-xs-12 {
+    margin-bottom: 40px;
+}
+
+section > p {
+    color: #000;
+}
+
+p.text-center {
+    font-size: 1.5em;
+}
+
+section p:nth-child(2) {
+    font-size: 1.2em;
+}
